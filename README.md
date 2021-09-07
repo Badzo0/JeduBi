@@ -5,4 +5,4 @@ App Link:
 https://podobnik.shinyapps.io/JeduBi/
 
 Second test App Link:
-https://podobnik.shinyapps.io/JeduBi2/
+https://podobnik.shinyapps.io/JeduBi_2/
